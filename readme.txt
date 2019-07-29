@@ -5,3 +5,4 @@ Git tracks changes of files.
 I have a real distributed version control system now.
 I'm happy today.
 Creating a new branch is quick & simple.
+分支管理策略
