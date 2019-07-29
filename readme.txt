@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 I have a real distributed version control system now.
 I'm happy today.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
